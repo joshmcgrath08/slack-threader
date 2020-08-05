@@ -2,9 +2,9 @@
   "name": "slack-threader",
   "version": "0.0.2",
   "description": "A basic bot for better threading of messages in Slack",
-  "main": "app.js",
+  "main": "src/app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node src/app.js"
   },
   "dependencies": {
     "node-fetch": "^2.6.0",
